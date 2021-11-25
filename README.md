@@ -13,7 +13,7 @@ In this project, We chose to help Indeed by applying a machine learning model to
 
 
 # 3.	Dataset
-A model performance deepens heavily on the data it was trained on. To acquire the data, we will be using web scraping on the "indeed" website. The features of the Jobs dataset are the following:
+A model performance deepens heavily on the data it was trained on. To acquire the data, we will be using web scraping on the [indeed](https://www.indeed.jobs/)website. The features of the Jobs dataset are the following:
 * Position Title: The name of the job 
 * Company: The name of the company 
 * Summary: refers to the job description
