@@ -29,3 +29,8 @@ The target will be:
 These are the technologies and libraries that I will be using for this project:
 * Technologies: Python, Jupyter Notebook. 
 * Libraries: NumPy, Pandas, Matplotlib, Seaborn, Requests, BeautifulSoup, Selenium, Statsmodels, Scikit-learn.
+  
+## Communication
+Please feel free to let me know if you have any questions.
+Email:  tahani.almutery@gmail.com and maram.alfaifi@hotmail.com
+
