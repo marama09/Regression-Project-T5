@@ -8,7 +8,7 @@
 Work occupies an important place in human life, because it is his usual productive activity, and the capabilities, competencies, and skills of the individual appear. One of the most popular job sites is an American search engine that publishes jobs around the world, the site collects job listings from thousands of websites, including job boards, recruiters, associations, and company job pages. it was launched in November 2004. The site is currently available in more than 60 countries in 28 languages. With more than 30,000 jobs.
 
 # 2.	Problem Statement
-In this project, We chose to help Indeed by applying a machine learning model to specifically linear regression to predict the ratings of job titles and employee salaries in Saudi Arabia (KSA), making the highest-ranked jobs primarily for job seekers. The model will be trained and tested on data from the site.
+In this project, We chose to help Indeed by applying a machine learning model to specifically linear regression to predict to find out the average salaries in Saudi Arabia (KSA), and explore top salaries jobs by industry. In addition to knowing the companies with the highest salaries by industry and know which is top in-demand job right now.
 
 
 
