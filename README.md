@@ -16,8 +16,7 @@ In this Project, based on the mobile Specification like Battery power, 3G enable
 
 # 3.	Dataset
 
-To get the data we will use data [mobile phone](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) from kaggle.<br>
-Here are the features of the dataset:
+Dataset as 21 features and 2000 entries, we will use data [mobile phone](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) from Kaggle.<br>Here are the features of the dataset:
 | Field Name	     | Description |
 | ----------- | ----------- |
 | battery_power     | Total energy a battery can store in one time measured in mAh      |
