@@ -20,7 +20,6 @@ To get the data we will use data [mobile phone](https://www.kaggle.com/iabhishek
 Here are the features of the dataset:
 | Field Name	     | Description |
 | ----------- | ----------- |
-| id     | ID      |
 | battery_power     | Total energy a battery can store in one time measured in mAh      |
 | blue     | Has bluetooth or not      |
 | clock_speed     | speed at which microprocessor executes instructions      |
