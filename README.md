@@ -1,29 +1,41 @@
 
 <p align="center">
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Indeed-Logo.png" width="900" height="400" class="center" alt="accessibility text">
+<img src="https://reviews.com.np/uploads/article/imei-unregistered-mobile-phones-to-stop-working-from-today/imei-unregistered-mobile-phones-to-stop-working-from-today.png" width="500" height="200" class="center" alt="accessibility text">
   
-# <p align="center"> Predict the average salary of employees in Saudi Arabia
+# <p align="center"> Mobile Price Prediction
 
 # 1.	Introduction:
-Work occupies an important place in human life, because it is his usual productive activity, and the capabilities, competencies, and skills of the individual appear. One of the most popular job sites is an American search engine that publishes jobs around the world, the site collects job listings from thousands of websites, including job boards, recruiters, associations, and company job pages. it was launched in November 2004. The site is currently available in more than 60 countries in 28 languages. With more than 30,000 jobs.
+The smartphone has occupied a huge role in people's lives since its inception. Smart phones have contributed to many social activities such as sending and receiving e-mail messages, which contributed to facilitating the management of companies and projects. Smartphones run on different operating systems, most notably Android and iOS.
 
 # 2.	Problem Statement
-In this project, We chose to help Indeed by applying a machine learning model to specifically linear regression to predict to find out the average salaries in Saudi Arabia (KSA), and explore top salaries jobs by industry. In addition to knowing the companies with the highest salaries by industry and know which is top in-demand job right now.
-
+In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile.
 
 
 # 3.	Dataset
-A model performance deepens heavily on the data it was trained on. To acquire the data, we will be using web scraping on the [indeed](https://www.indeed.jobs/) website. The features of the Jobs dataset are the following:
-* Position Title: The name of the job 
-* Company: The name of the company 
-* Summary: refers to the job description
-* city: refers to the name city
-* state: The name of the state
-* PostDate: Date of job posting
-* Industry : refers to a broad category under which several job titles can fall. (e.g., IT, HR, ) 
-* reviews:  refers to an evaluation of a company 
-The target will be: 
-*  salary: the average job salary.
+
+To get the data we will use data [mobile phone](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) from kaggle.<br>
+Here are the features of the dataset:
+* id:ID
+* battery_power:Total energy a battery can store in one time measured in mAh
+* blue:Has bluetooth or not
+* clock_speed:speed at which microprocessor executes instructions
+* dual_sim:Has dual sim support or not
+* fc:Front Camera mega pixels
+* four_g:Has 4G or not
+* int_memory:Internal Memory in Gigabytes
+* m_dep:Mobile Depth in cm
+* mobile_wt:Weight of mobile phone
+* n_cores:Number of cores of processor
+* pc:Primary Camera mega pixels
+* px_height:Pixel Resolution Height
+* px_width:Pixel Resolution Width
+* ram:Random Access Memory in Megabytes
+* sc_h:Screen Height of mobile in cm
+* sc_w:Screen Width of mobile in cm
+* talk_time:longest time that a single battery charge will last when you are
+* three_g:Has 3G or not
+* touch_screen:Has touch screen or not
+wifi:Has wifi or not
 
 # 4.	Tools 
 These are the technologies and libraries that I will be using for this project:
