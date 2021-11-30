@@ -5,8 +5,11 @@
 # <p align="center"> Mobile Price Prediction
 
 # 1.	Introduction:
-The smartphone has occupied a huge role in people's lives since its inception. Smart phones have contributed to many social activities such as sending and receiving e-mail messages, which contributed to facilitating the management of companies and projects. Smartphones run on different operating systems, most notably Android and iOS.
+We started building our own company for mobile phones (phoneky). We want to fight a tough battle with big companies like Apple, Samsung, etc.
+We don't know how to estimate the price of cell phones made by our company. In this competitive market for mobile phones, it is not enough to make random predictions and assumptions. To solve this problem, we collect mobile phone sales data from different companies.
 
+<b>phoneky</b> want to discover some relationship between the features of a mobile phone (eg: - RAM, internal memory, etc.) and the selling price.
+In this problem, you don't have to predict the actual price but the price range indicates how high the price will be
 # 2.	Problem Statement
 In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile.This kind of prediction will help companies estimate price of mobiles to give tough competion to other mobile manufacturer
 Also it will be usefull for Consumers to verify that they are paying best price for a mobile.
