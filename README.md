@@ -11,8 +11,7 @@ We don't know how to estimate the price of cell phones made by our company. In t
 <b>phoneky</b> want to discover some relationship between the features of a mobile phone (eg: - RAM, internal memory, etc.) and the selling price.
 In this problem, you don't have to predict the actual price but the price range indicates how high the price will be
 # 2.	Problem Statement
-In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile.This kind of prediction will help companies estimate price of mobiles to give tough competion to other mobile manufacturer
-Also it will be usefull for Consumers to verify that they are paying best price for a mobile.
+In this Project, based on the mobile Specification like Battery power, 3G enabled, wifi, Bluetooth, Ram, etc we are predicting the Price range of the mobile. This kind of prediction will help us estimate the price of mobiles to give tough competition to manufacturers Also it will be useful for Consumers to verify that they are paying the best price for mobile.
 
 
 # 3.	Dataset
