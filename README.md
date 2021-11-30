@@ -8,7 +8,8 @@
 The smartphone has occupied a huge role in people's lives since its inception. Smart phones have contributed to many social activities such as sending and receiving e-mail messages, which contributed to facilitating the management of companies and projects. Smartphones run on different operating systems, most notably Android and iOS.
 
 # 2.	Problem Statement
-In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile.
+In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile.This kind of prediction will help companies estimate price of mobiles to give tough competion to other mobile manufacturer
+Also it will be usefull for Consumers to verify that they are paying best price for a mobile.
 
 
 # 3.	Dataset
