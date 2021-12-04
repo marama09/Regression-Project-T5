@@ -43,7 +43,7 @@ Dataset as 21 features and 2000 entries, we will use data [mobile phone](https:/
 # 4.	Tools 
 These are the technologies and libraries that I will be using for this project:
 * Technologies: Python, Jupyter Notebook. 
-* Libraries: NumPy, Pandas, Matplotlib, Seaborn, Requests, BeautifulSoup, Selenium, Statsmodels, Scikit-learn.
+* Libraries: NumPy, Pandas, Matplotlib, Seaborn, plotly, Scikit-learn.
   
 ## Communication
 Please feel free to let me know if you have any questions.
