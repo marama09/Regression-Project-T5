@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://reviews.com.np/uploads/article/imei-unregistered-mobile-phones-to-stop-working-from-today/imei-unregistered-mobile-phones-to-stop-working-from-today.png" width="500" height="200" class="center" alt="accessibility text">
+<img src="https://www.thecitizen.co.tz/resource/blob/3432734/0b58f8bae31c0a00d86d810f152af6ba/smartphone-pic-data.jpg" width="500" height="200" class="center" alt="accessibility text">
   
 # <p align="center"> Mobile Price Prediction
 
